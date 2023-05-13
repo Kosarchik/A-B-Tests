@@ -1,2 +1,2 @@
-# A-B-Tests
+# A/B Tests
 Analyzing A/B Testing Results
